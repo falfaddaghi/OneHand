@@ -18,7 +18,7 @@ For this project we will not be implementing any real authentication. Instead, w
 
 - [ ] Content-Negotiation
 
-- [ ] N-tire applications
+- [ ] N-tier applications
 
 - [ ] Services
 - [ ] Repositories
