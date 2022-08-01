@@ -8,29 +8,29 @@ For this project we will not be implementing any real authentication. Instead, w
 
 ## Goals (Rough Draft)
 
-- [] HTTP/REST
+- [ ] HTTP/REST
 
-- [] Learn Postman
+- [ ] Learn Postman
 
-- [] Simple web server
+- [ ] Simple web server
 
-- [] Controllers
+- [ ] Controllers
 
-- [] Content-Negotiation
+- [ ] Content-Negotiation
 
-- [] N-tire applications
+- [ ] N-tire applications
 
-- [] Services
-- [] Repositories
-- [] DTOs
-- [] Some Design Patterns
+- [ ] Services
+- [ ] Repositories
+- [ ] DTOs
+- [ ] Some Design Patterns
 
-- [] MVC
-- [] Decorator
-- [] SOLID Principles
-- [] Unit Testing
+- [ ] MVC
+- [ ] Decorator
+- [ ] SOLID Principles
+- [ ] Unit Testing
 
-- [] Better Database Access
+- [ ] Better Database Access
 
-- [] Direct Access
-- [] ORM (Entity Framework)
+- [ ] Direct Access
+- [ ] ORM (Entity Framework)
